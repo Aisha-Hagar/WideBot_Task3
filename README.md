@@ -2,6 +2,8 @@
 ## Problem Statement
 Task 3 - Classification Using the same data in task 2, build a machine learning based classifier and show its performance on the test-set. Show precision, recall, f-score, accuracy for each class and for the whole test data. Please describe briefly the meaning of each result and metric for this specific task. Also, please write some enhancements that you may think about to achieve better results. Note: add a readme file that describes the whole training process in briefed points. Note: Use stories data only (not comments). Also, take the last 20% of each file as a test-set.
 
+## Note: The dataset was too large to be uploaded on github. In order to run the notebook without errors, make sure to download the dataset:  https://www.kaggle.com/datasets/tariqmassaoudi/hespress and add it to the code directory. 
+
 ## Training
 * For preprocessing: stopwords and punctuations were removed.
 * The text was transformed using TF-IDF
