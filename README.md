@@ -6,6 +6,7 @@ Task 3 - Classification Using the same data in task 2, build a machine learning 
 
 ## Training
 * For preprocessing: stopwords and punctuations were removed.
+* The data was split to 80% train, 20% test
 * The text was transformed using TF-IDF
 * A logistic regression model was trained
 
